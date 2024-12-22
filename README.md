@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danishhaji" alt="danishhaji" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Applied Generative AI Engineer (GenEng)**
+- 🌱 I’m currently learning **Agentic and Robotic AI Engineer (CAE)**
 
 - 📫 How to reach me **danish.haji111@gmail.com**
 
