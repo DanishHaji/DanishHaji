@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">A passionate and upcoming full-stack developer and Agentic and Robotic AI Engineer (CAE) from Pakistan.</h3>
+<h1 align="center">Hi 👋, I'm Engineer Danish</h1>
+<h2 align="center">Experienced Energy Engineer with a strong technical background, now expanding expertise in IT and AI. Certified in Agentic & Robotics AI and proficient in web development. Passionate about bridging technology and engineering for innovative solutions.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishhaji&label=Profile%20views&color=0e75b6&style=flat" alt="danishhaji" /> </p>
 
